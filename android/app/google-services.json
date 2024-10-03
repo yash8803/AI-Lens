@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941574487142",
+    "project_id": "ai-object-recognition",
+    "storage_bucket": "ai-object-recognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941574487142:android:477e9133d0412e863101a7",
+        "android_client_info": {
+          "package_name": "com.example.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU7ORINjmAd2mKx8ZFHMNZbG_W3u81e84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
