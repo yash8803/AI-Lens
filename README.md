@@ -1,4 +1,4 @@
-# ai
+# AI Lens
 
 A new Flutter project.
 
